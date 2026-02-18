@@ -1,5 +1,2 @@
 ## Stats by lines
-![Language Stats by_lines](stats/pie_by_lines.png)
-## Stats by repos
-![Language Stats by_repos](stats/pie_by_repos.png)
-
+<img src="stats/pie_by_lines.png" alt="Language Stats by lines" style="max-width: 100%; width: 450px; height: auto;">
